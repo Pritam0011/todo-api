@@ -37,7 +37,7 @@ cd todo-api
 npm install
 ```
 
-- **Setting Up development Enviornment create a `.env` file in root folver and add the following line**
+- **Setting Up development Enviornment, create a `.env` file in root folder and add the following line**
 
 ```
 MONGODB_CONNECTION_URL = *your mongodb connection string*
@@ -54,7 +54,7 @@ npm run dev
 ```
 http://localhost:3000
 ```
-## Base URL
+## Base URL for Usage
 
 ```
 https://pwtodo.onrender.com/
@@ -79,10 +79,11 @@ description: string
 status: string
 }
 ```
-- ID will be generated automatically & default status value is "pending"
-****Please make sure the description should be required field in frontend**
+- The ID will be generated automatically, and the status will default to "pending."
 
-****Please use only JSON data for the POST Method**
+****Please make sure the description should be a required field in the frontend**
+
+****The only data that should be sent via POST methods is JSON**
 
 ## Demo Usage / Examples 
 
