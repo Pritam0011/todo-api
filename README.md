@@ -1,13 +1,14 @@
-<h1 align="center"> Todo Api </h1>
- <div align="center"> 
+
+ <h1 align="center">
+ <p><b>Todo Api</b></p>
  <img src="https://img.shields.io/github/package-json/v/Pritam0011/todo-api?color=g&label=todo-api">
  <img src="https://img.shields.io/npm/v/npm">
  <img src="https://img.shields.io/github/languages/code-size/Pritam0011/todo-api?logo=github">
- <img src="https://img.shields.io/github/directory-file-count/Pritam0011/todo-api">
-</div>
+</h1>
+<p align="center">This is an API for the Todo app. This is created using Express JS, NodeJS & MongoDB.</p>
 
 #
-This is an API for the Todo app. This is created using Express JS, NodeJS & MongoDB.
+
 ## Run the application locally
 
 
@@ -100,7 +101,7 @@ status: string
 ```
 ##
 **GET** - ```https://pwtodo.onrender.com/api/todos```
-``
+
 - Response -
 ```
 [
@@ -126,7 +127,7 @@ status: string
 ```
 ##
 **GET** - ```https://pwtodo.onrender.com/api/todo/1669835877268```
-``
+
 - Response -
 ```
 {
@@ -141,7 +142,7 @@ status: string
 ```
 ##
 **POST** - ```https://pwtodo.onrender.com/api/todo/1669835877268/done```
-``
+
 - Response -
 ```
 {
@@ -150,7 +151,7 @@ status: string
 ```
 ##
 **DELETE** - ```https://pwtodo.onrender.com/api/todo/1669835877268/delete```
-``
+
 - Response -
 ```
 {
