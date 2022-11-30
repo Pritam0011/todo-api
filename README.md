@@ -3,7 +3,7 @@
  <p><b>Todo Api</b></p>
  <img src="https://img.shields.io/github/package-json/v/Pritam0011/todo-api?color=g&label=todo-api">
  <img src="https://img.shields.io/npm/v/npm">
- <img src="https://img.shields.io/github/languages/code-size/Pritam0011/todo-api?logo=github">
+ <img src="https://img.shields.io/github/last-commit/pritam0011/todo-api">
 </h1>
 <p align="center">This is an API for the Todo app. This is created using Express JS, NodeJS & MongoDB.</p>
 
